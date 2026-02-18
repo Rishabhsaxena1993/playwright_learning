@@ -1,0 +1,8 @@
+default_env: parabank
+
+environments:
+  parabank:
+    base_url: "https://parabank.parasoft.com/parabank/"
+    browser: chromium
+    headless: false
+    timeout: 7000

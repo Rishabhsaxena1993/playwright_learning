@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_dashboard.py:41 Account number:

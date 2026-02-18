@@ -1,0 +1,3 @@
+Account Number: 
+Account Number: 
+Message printed: Congratulations, your account is now open.
