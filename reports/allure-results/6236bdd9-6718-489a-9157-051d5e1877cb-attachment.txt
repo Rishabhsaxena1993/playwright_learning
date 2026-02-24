@@ -1,0 +1,16 @@
+
+================================================================================
+PHASE 1: TESTING INVALID LOGIN CREDENTIALS
+================================================================================
+
+Attempt 1:
+  Username: testuser1
+  Password: wrongpassword
+
+================================================================================
+PHASE 1: TESTING INVALID LOGIN CREDENTIALS
+================================================================================
+
+Attempt 1:
+  Username: testuser1
+  Password: wrongpassword

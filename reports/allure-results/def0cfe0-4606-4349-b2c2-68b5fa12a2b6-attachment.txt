@@ -1,0 +1,8 @@
+
+================================================================================
+PHASE 2: REGISTERING NEW USER
+================================================================================
+
+Registering user with:
+  Username: verifiedmcpserver
+  Password: Thesword

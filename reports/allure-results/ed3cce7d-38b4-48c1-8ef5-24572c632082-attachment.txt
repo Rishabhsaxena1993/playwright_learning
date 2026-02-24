@@ -1,0 +1,16 @@
+
+================================================================================
+PHASE 3: LOGGING IN WITH REGISTERED USER
+================================================================================
+
+Attempting login with:
+  Username: verifiedmcpserver
+  Password: Thesword
+
+================================================================================
+PHASE 3: LOGGING IN WITH REGISTERED USER
+================================================================================
+
+Attempting login with:
+  Username: verifiedmcpserver
+  Password: Thesword
