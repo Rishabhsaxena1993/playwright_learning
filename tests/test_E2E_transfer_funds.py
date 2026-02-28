@@ -20,7 +20,7 @@ def test_E2E_transfer_funds(page, config):
     reg.enter_zip_code("123456")
     reg.enter_phone("123456789")
     reg.enter_ssn("123756")
-    reg.enter_username("rish")
+    reg.enter_username("rishabh")
     reg.enter_password("Thesword")
     reg.enter_confirm_password("Thesword")
     reg.click_register_button()
