@@ -47,3 +47,9 @@ class Transfer_Funds(BasePage):
     def verify_to_account(self):
         transfered_to_account = self.page.wait_for_selector(self.PRINT_TO_AMOUNT, state="attached").text_content().strip()
         print("Transfered to account", transfered_to_account)
+
+    def select_first_from_account(self):
+        self.page.select_option("#fromAccountId", index=0)
+
+    def select_second_to_account(self):
+        self.page.select_option("#toAccountId", index=1)
